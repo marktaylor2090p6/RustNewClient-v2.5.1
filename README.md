@@ -8,17 +8,6 @@ A performance-focused Rust project built with a strong emphasis on stability, mo
 
 
 
-
-██████  ██    ██  ██████ ████████
-██   ██ ██    ██ ██         ██    
-██████  ██    ██  █████     ██     
-██   ██ ██    ██      ██    ██     
-██   ██  ██████  ██████     ██        
-
-
-
-
-
 A high-performance external utility designed to enhance survival efficiency and combat precision in the world of Rust. Built for stability and minimal system footprint.
 
 
@@ -52,4 +41,4 @@ Rust receives frequent updates, which means projects built around the game can q
 
 👀 Watch the repository to stay informed about future changes.
 
-📌 Current status: Updated for the latest Rust game version and recent anti-cheat/security changes.<img width="996" height="552" alt="149358591-06654fa7-c94c-4cd7-bd13-14bde73a0864" src="https://github.com/user-attachments/assets/52f829df-c469-4c0a-925a-8acc766bdb7c" />
+📌 Current status: Updated for the latest Rust game version and recent anti-cheat/security changes.
