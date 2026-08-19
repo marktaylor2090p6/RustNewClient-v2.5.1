@@ -1,7 +1,11 @@
 
 <img width="996" height="552" alt="149358591-06654fa7-c94c-4cd7-bd13-14bde73a0864" src="https://github.com/user-attachments/assets/f811cdb8-0f9f-45dc-84b1-2a9903113612" />
+
+
 # RustNewClient
 A performance-focused Rust project built with a strong emphasis on stability, modularity, and keeping the codebase up to date with the latest game changes.
+
+
 
 
 
@@ -10,6 +14,9 @@ A performance-focused Rust project built with a strong emphasis on stability, mo
 ██████  ██    ██  █████     ██     
 ██   ██ ██    ██      ██    ██     
 ██   ██  ██████  ██████     ██        
+
+
+
 
 
 A high-performance external utility designed to enhance survival efficiency and combat precision in the world of Rust. Built for stability and minimal system footprint.
