@@ -7,7 +7,9 @@
 
 A high-performance external utility designed to enhance survival efficiency and combat precision in the world of Rust. Built for stability and minimal system footprint.
 
+ - ZIP archive with the latest version of the client download in releases of this repository
 
+   
 🆕 Updated for the latest Rust release
 
 Rust has recently received updates affecting its anti-cheat and security systems. The project has already been updated for the current game version, with the latest changes taken into account during development and testing.
